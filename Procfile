@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run sob.py
+web: sh setup.sh && streamlit run crop_analysis.py
